@@ -100,8 +100,8 @@
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/horizon-landing-page.git
-cd horizon-landing-page
+git clone https://github.com/BeastEMP/CreativeLanding.git
+cd CreativeLanding
 ```
 
 2. **Install Dependencies:**
